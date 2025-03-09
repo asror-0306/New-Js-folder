@@ -117,14 +117,13 @@ define ?? console.log("Success");
 /// FUNCTION DECLARATION
 
 
-
-function getName(a, d) {
+function myName() {
     console.log("Hello world");
-    console.log(a, d);
 
 }
 
-getName(1, 2)
-getName()
-getName()
-getName()
+
+myName()
+myName()
+myName()
+myName()
